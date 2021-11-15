@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Spirited Away",
       "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+    },
+    {
+      "id": 4,
+      "title": "Weekend at JavaScript",
+      "summary": "A team of idiots try and figure out Javascript problems with hilarious outcomes"
     }
   ]
 }
